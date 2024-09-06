@@ -88,7 +88,7 @@ class Fetcher(object):
         if data:
             return
 
-        self.dir = os.path.join(self.cache, self.rule.defaults.get('provider'))
+        self.dir = os.path.join(self.cache, self.rule.defaults.get('provider', 'unknown'))
         self.logger.debug(self.dir)
 
         if not os.path.exists(self.dir):
