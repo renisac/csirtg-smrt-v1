@@ -1,4 +1,4 @@
-import py.test
+import pytest
 
 from csirtg_smrt import Smrt
 from pprint import pprint

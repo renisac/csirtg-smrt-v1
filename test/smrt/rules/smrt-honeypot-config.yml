@@ -1,0 +1,21 @@
+parser: csv
+defaults:
+  tlp: 'amber'
+  group: 'ses_ops'
+  confidence: 8
+  description: 'community honeypot'
+  tags:
+    - honeypot
+    - scanner
+  values:
+    - indicator
+    - application
+    - protocol
+    - firsttime
+    - rdata
+    - provider
+
+feeds:
+  honeypot_combined:
+    remote: 'test/smrt/data/hpfeed.txt'
+

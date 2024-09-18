@@ -1,0 +1,6 @@
+"206.81.26.161","3cx","tcp,tls","2024-09-14 09:26:56.724585","","partner15.ren-isac.net"
+"194.26.135.121","juniper","tcp,rdp","2024-09-14 08:47:02.129406","","intel.ren-isac.net"
+"165.154.206.139","sugarcrm","tcp,tls,http","2024-09-14 09:26:55.475147","ja3:d6828e30ab66774a91a96ae93be4ae4c","intel.ren-isac.net"
+"d6828e30ab66774a91a96ae93be4ae4c","sugarcrm","tcp,tls,http","2024-09-14 09:26:55.475147","ipv4:165.154.206.139","intel.ren-isac.net"
+"34.72.176.129","mirth-connect","tcp,http","2024-09-14 09:26:55.671615","","partner15.ren-isac.net"
+
