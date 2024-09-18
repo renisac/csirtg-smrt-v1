@@ -1,5 +1,4 @@
-import py.test
-
+import pytest
 from csirtg_smrt import Smrt
 from csirtg_smrt.rule import Rule
 from csirtg_smrt.constants import REMOTE_ADDR
