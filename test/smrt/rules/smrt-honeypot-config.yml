@@ -17,5 +17,5 @@ defaults:
 
 feeds:
   honeypot_combined:
-    remote: 'test/smrt/data/hpfeed.txt'
+    remote: 'test/smrt/data/feed_dynamic_provider.txt'
 
