@@ -10,6 +10,7 @@ defaults:
   values:
     - indicator
     - application
+    - portlist
     - protocol
     - firsttime
     - rdata
