@@ -1,3 +1,4 @@
+cifsdk>=3.0.0,<4
 csirtg_indicator>=1.0.6,<2
 PyYAML>=5.1.0
 csirtgsdk>=1.1,<2.0

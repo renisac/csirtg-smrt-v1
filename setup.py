@@ -64,6 +64,7 @@ setup(
         'tornado>=5.1.0',
         'apwgsdk>=0.0.0a4,<=1.0',
         'docker>=6.0.0',
+        'cifsdk>=3.0.0,<4',
     ],
     entry_points={
         'console_scripts': [
